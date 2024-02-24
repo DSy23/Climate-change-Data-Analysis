@@ -1,5 +1,5 @@
 ### Overview
-The analysis provided a comprehensive examination of climate change indicators, focusing primarily on global temperature changes over the past six decades and extending into future predictions. It aimed to quantify the extent of climate change, identify regions most affected by temperature variations, and forecast future temperature trends under current trajectories. The analysis underscored the urgent need for action to mitigate the impacts of climate change and adapt to its evolving dynamics.
+The analysis looked into how the Earth's temperature has changed from 1961 to 2022 and guessed what might happen with temperatures from 2023 to 2032. It aimed to show how much the Earth's temperature is going up, find out which places are getting warmer the fastest, and predict how temperatures might keep changing. The study showed that the Earth is getting warmer quickly, and some countries are feeling the heat more than others. It highlighted the need to do something about this warming trend.
 
 ### Tools Used
 - **Python**: The core programming language used for data manipulation, analysis, and visualization.
